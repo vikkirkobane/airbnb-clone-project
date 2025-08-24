@@ -116,7 +116,7 @@ StayEase is a full-stack clone of the accommodation booking platform Airbnb. The
 
 ---
 
-## Roles
+## Team Roles
 
 - **Project Manager**: coordinates team activities and milestones  
 - **Frontend Developers**: implement UI components and ensure responsiveness  
