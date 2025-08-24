@@ -82,7 +82,7 @@ StayEase is a full-stack clone of the accommodation booking platform Airbnb. The
 
 ---
 
-## Features
+## Feature Breakdown
 
 ### Frontend
 - Responsive layout  
